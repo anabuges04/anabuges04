@@ -1,14 +1,5 @@
-- 👋 Hi, I’m @anabuges04
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-anabuges04/anabuges04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-![.](https://media.tenor.com/gKxj3f-p2YcAAAAM/onikasleezy-justin-bieber.gif)
+- 👋 oi, me chamo @anabuges04
+- 🍃 sou estusante
+- ### 📫 entre em contato comigo
+- ana.buges.oliveira@escola.pr.gov.br
+![.](https://media.tenor.com/gKxj3f-p2YcAAAAM/onikasleezy-justin-bieber.gif).
