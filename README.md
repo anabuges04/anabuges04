@@ -1,5 +1,8 @@
 ## 👋 oi, me chamo Ana
 - 🍃 sou estudante
+- Ela/Dela
+- 🦋
+- estou estudando o alura🍿
 
 - ### 📫 entre em contato comigo
  ana.buges.oliveira@escola.pr.gov.br
